@@ -1,0 +1,13 @@
+{
+  "name": "Agni Club",
+  "short_name": "AgniClub",
+  "description": "Agni Club informational blog — guides, bonuses, and responsible-play resources.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff5c5c",
+  "icons": [
+    { "src": "/assets/favicon/favicon.webp", "sizes": "192x192", "type": "image/webp" },
+    { "src": "/assets/favicon/favicon.webp", "sizes": "512x512", "type": "image/webp" }
+  ]
+}
